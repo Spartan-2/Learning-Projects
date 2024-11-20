@@ -17,3 +17,4 @@ document.getElementById("rBtn").onclick = function(){
     document.getElementById("countLabel").textContent = count;
 
 }
+console.log("u are a bad boy and    --- u")
